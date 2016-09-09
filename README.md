@@ -10,6 +10,10 @@ Pokemon version description
 
 update: 1996
 
+1세대는 "RGBY"라고도 불림
+대표적인 포켓몬스터 버전으로, 151마리의 포켓몬으로 구성되어있다.
+
+
 **2세대 (골드,실버,크리스탈)**
 
 update:1999
